@@ -33,7 +33,7 @@
       echo $variable1 + $variable2;
       echo "<br>";
 
-      // Operations in php
+      // Operations in php :-
     //   Arithmatic Operators
     echo "<h1>Arithmatic Operations</h1>";
     echo "The value of variable1 + variable2 is ";
